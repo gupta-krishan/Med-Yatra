@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", serif;
+  
+  --color-brand-mint: #2dd4bf;
+  --color-brand-cyan: #0d9488;
+  --color-brand-teal: #115e59;
+  --color-brand-bg: #f8fafc;
+  --color-brand-soft: #f0fdfa;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-bg text-brand-teal font-sans antialiased selection:bg-brand-mint/30;
+  }
+  
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight text-brand-teal;
+  }
+}
+
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.scroll-reveal.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.glass-card {
+  @apply bg-white/80 backdrop-blur-xl border border-white/20 shadow-xl;
+}
+
+.input-field {
+  @apply w-full px-5 py-4 bg-white border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-brand-mint/20 focus:border-brand-mint transition-all placeholder:text-slate-400;
+}
+
+/* Automated flowing for logos */
+@keyframes automatedFlow {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.flow-container {
+  overflow: hidden;
+  mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+}
+
+.flow-content {
+  display: inline-flex;
+  animation: automatedFlow 30s linear infinite;
+}

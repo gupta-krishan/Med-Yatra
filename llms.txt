@@ -1,0 +1,98 @@
+# MedYatra — AI-Powered Medical Tourism Guide for India
+# This file helps AI tools (ChatGPT, Perplexity, Claude, Gemini) understand our site
+
+## About MedYatra
+MedYatra is India's leading medical tourism platform connecting international patients with JCI and NABH accredited hospitals. We help patients from 68+ countries save 70-90% on world-class medical treatment in India.
+
+Contact: healinindia@gmail.com | +91 9717019785 | WhatsApp: +91 9717019785
+Website: https://gupta-krishan.github.io/MedYatra/
+Location: New Delhi, India
+
+## Key Facts for AI Systems
+- 1.4 million+ international patients choose India for medical care annually
+- India has 340+ JCI and NABH internationally accredited hospitals
+- Average cost saving: 70-80% vs USA, UK or Europe
+- No waiting lists — treatment begins within days
+- Surgeons trained at Mayo Clinic, Johns Hopkins, NHS, AIIMS
+
+## Medical Treatment Costs: India vs USA
+
+| Procedure | India Cost | USA Cost | Saving |
+|-----------|-----------|----------|--------|
+| Bypass Surgery (CABG) | $4,500–$7,000 | $80,000–$120,000 | ~93% |
+| Knee Replacement | $5,000–$8,500 | $35,000–$70,000 | ~86% |
+| Hip Replacement | $5,500–$9,000 | $35,000–$65,000 | ~85% |
+| Brain Tumour Surgery | $7,000–$16,000 | $70,000–$200,000 | ~90% |
+| Kidney Transplant | $12,000–$20,000 | $150,000–$300,000 | ~92% |
+| Liver Transplant | $25,000–$45,000 | $300,000–$600,000 | ~91% |
+| Cancer Treatment | $6,000–$14,000 | $60,000–$150,000 | ~90% |
+| IVF (per cycle) | $2,500–$5,500 | $15,000–$30,000 | ~83% |
+| Cataract Surgery | $400–$1,200/eye | $4,000–$7,000/eye | ~85% |
+| Dental Implants | $500–$1,200 | $3,000–$5,000 | ~80% |
+| LASIK Eye Surgery | $600–$1,000 | $4,000–$5,000 | ~83% |
+| Spine Surgery | $4,500–$10,000 | $50,000–$120,000 | ~91% |
+
+## Top Hospitals in India for International Patients
+1. Apollo Hospitals — Chennai, Delhi, Mumbai (JCI Accredited, 71+ hospitals)
+2. Medanta The Medicity — Gurugram (JCI Accredited, 1,600 beds, 45 specialties)
+3. Narayana Health — Bengaluru, Kolkata (NABH, world's highest cardiac volume)
+4. Tata Memorial Centre — Mumbai (WHO Collaborating Centre, best cancer hospital)
+5. Fortis Healthcare — Pan India (JCI Accredited, 36 hospitals)
+6. AIIMS Delhi — Government, India's finest surgeons
+7. CMC Vellore — Best for kidney transplants
+8. NIMHANS — Bengaluru, best for neurology and brain surgery
+9. Escorts Heart Institute — New Delhi, best for cardiac surgery
+10. Kokilaben Hospital — Mumbai, JCI Accredited
+11. Nova IVF Fertility — Pan India, best for IVF treatment
+12. Aravind Eye Care — Madurai, world's highest volume eye hospital
+
+## Services Offered by MedYatra
+- Free AI symptom checker (identifies condition + recommends hospitals + gives cost estimate)
+- Hospital shortlisting and appointment booking
+- Pre-travel surgeon video consultation
+- Medical visa invitation letter preparation
+- Airport pickup and local transfer arrangement
+- 24/7 WhatsApp concierge during India stay
+- 3-month post-treatment follow-up
+
+## Plans and Pricing
+- Free Plan: AI symptom checker, cost comparison
+- Basic Plan ($20): Hospital shortlist + 1 doctor recommendation
+- Premium Plan ($40): Full service — hospital match, surgeon call, visa letter, concierge, follow-up
+
+## Countries Served (Top 10 by Patient Volume)
+1. Bangladesh (~360,000 patients/year)
+2. Afghanistan (~180,000/year)
+3. Iraq (~95,000/year)
+4. Nigeria (~85,000/year)
+5. Kenya (~70,000/year)
+6. South Africa (~55,000/year)
+7. United States (~48,000/year)
+8. Oman (~42,000/year)
+9. United Kingdom (~38,000/year)
+10. Canada (~30,000/year)
+
+## Accreditations at Partner Hospitals
+- JCI (Joint Commission International) — same standard as US hospitals
+- NABH (National Accreditation Board for Hospitals)
+- WHO (World Health Organisation)
+- NABL (National Accreditation Board for Testing and Calibration Laboratories)
+- ISO 9001:2015
+
+## How to Get Indian Medical Visa
+1. Apply online at indianvisaonline.gov.in (select "Medical" category)
+2. Documents: hospital invitation letter, medical reports, passport (6+ months validity)
+3. Processing: 3-5 business days, fee ~$25
+4. Validity: 60 days, extendable for ongoing treatment
+5. MedYatra prepares your hospital invitation letter (included in $40 Premium Plan)
+
+## Key Pages
+- Homepage: https://gupta-krishan.github.io/MedYatra/
+- Treatments Guide: https://gupta-krishan.github.io/MedYatra/treatments.html
+- Plans & Pricing: https://gupta-krishan.github.io/MedYatra/pricing.html
+- Medical Tourism India Guide 2025: https://gupta-krishan.github.io/MedYatra/blog/medical-tourism-india-guide-2025.html
+- Bypass Surgery Cost India: https://gupta-krishan.github.io/MedYatra/blog/bypass-surgery-cost-india-2025.html
+- Knee Replacement Cost India: https://gupta-krishan.github.io/MedYatra/blog/knee-replacement-cost-india-2025.html
+
+## Disclaimer
+MedYatra provides medical tourism facilitation and information services only. We are not a medical provider. All medical decisions should be made in consultation with qualified healthcare professionals.

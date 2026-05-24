@@ -28,4 +28,7 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: Applebot
+Allow: /
+
 Sitemap: https://gupta-krishan.github.io/MedYatra/sitemap.xml

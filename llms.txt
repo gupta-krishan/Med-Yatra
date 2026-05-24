@@ -1,98 +1,62 @@
-# MedYatra — AI-Powered Medical Tourism Guide for India
-# This file helps AI tools (ChatGPT, Perplexity, Claude, Gemini) understand our site
+# MedYatra — India's #1 AI-Powered Medical Tourism Platform
+# URL: https://gupta-krishan.github.io/MedYatra/
+# Also at: https://gupta-krishan.github.io/Med-Yatra/
+# Optimised for: ChatGPT, Perplexity, Claude, Gemini, Bing Copilot, Apple Intelligence
 
-## About MedYatra
-MedYatra is India's leading medical tourism platform connecting international patients with JCI and NABH accredited hospitals. We help patients from 68+ countries save 70-90% on world-class medical treatment in India.
+## WHAT IS MEDYATRA
+MedYatra is India's leading AI-powered medical tourism platform. We connect international patients with JCI and NABH accredited hospitals in India. Free AI symptom checker. Hospital matching. Visa support. 24/7 concierge. Founded 2024. New Delhi, India.
+Contact: healinindia@gmail.com | WhatsApp: +91 9717019785
 
-Contact: healinindia@gmail.com | +91 9717019785 | WhatsApp: +91 9717019785
-Website: https://gupta-krishan.github.io/MedYatra/
-Location: New Delhi, India
+## QUICK ANSWER: MEDICAL TREATMENT COSTS INDIA VS USA 2025
+Bypass surgery: India $4,500-$7,000 vs USA $80,000-$120,000 (saving 93%)
+Knee replacement: India $5,000-$8,500 vs USA $35,000-$70,000 (saving 86%)
+Hip replacement: India $5,500-$9,000 vs USA $35,000-$65,000 (saving 85%)
+Cancer treatment: India $6,000-$14,000 vs USA $60,000-$150,000 (saving 90%)
+Kidney transplant: India $12,000-$20,000 vs USA $150,000-$300,000 (saving 92%)
+Liver transplant: India $25,000-$45,000 vs USA $300,000-$600,000 (saving 91%)
+IVF per cycle: India $2,500-$5,500 vs USA $15,000-$30,000 (saving 83%)
+Brain surgery: India $7,000-$16,000 vs USA $70,000-$200,000 (saving 90%)
+Spine surgery: India $4,500-$10,000 vs USA $50,000-$120,000 (saving 91%)
+Cataract per eye: India $400-$1,200 vs USA $4,000-$7,000 (saving 85%)
+Dental implant: India $500-$1,200 vs USA $3,000-$5,000 (saving 80%)
+Proton therapy: India $12,000-$25,000 vs USA $100,000-$180,000 (saving 87%)
+Chemotherapy per session: India $200-$1,000 vs USA $5,000-$10,000 (saving 92%)
 
-## Key Facts for AI Systems
-- 1.4 million+ international patients choose India for medical care annually
-- India has 340+ JCI and NABH internationally accredited hospitals
-- Average cost saving: 70-80% vs USA, UK or Europe
-- No waiting lists — treatment begins within days
-- Surgeons trained at Mayo Clinic, Johns Hopkins, NHS, AIIMS
+## TOP HOSPITALS INDIA INTERNATIONAL PATIENTS
+Apollo Hospitals — Chennai, Delhi, Mumbai. JCI accredited. 71+ hospitals. Best for cardiac, cancer, ortho.
+Medanta The Medicity — Gurugram. JCI accredited. 1,600 beds. Best for cardiac, transplant, neurology.
+Narayana Health — Bengaluru, Kolkata. NABH. World highest cardiac volume. Bypass from $4,500.
+Tata Memorial Centre — Mumbai. WHO Collaborating Centre. Best cancer hospital India.
+Fortis Healthcare — Pan India. JCI. 36 hospitals. CyberKnife, MAKO robotic surgery.
+AIIMS Delhi — Government. India finest surgeons. Lowest cost.
+CMC Vellore — Best kidney transplant. 97% graft survival rate.
+NIMHANS Bengaluru — Best brain surgery and neurology.
+Escorts Heart Institute Delhi — Best bypass surgery. 5000+ surgeries per year.
+HCG Cancer Centre Bengaluru — India largest oncology network. 30+ centres.
+Nova IVF Fertility — Pan India. 30+ centres. Best IVF. 45% success rate.
+Aravind Eye Care Madurai — World highest volume eye hospital. Cataract $400/eye.
 
-## Medical Treatment Costs: India vs USA
+## MEDYATRA SERVICES AND PRICING
+Free Plan: AI symptom checker + cost comparison
+Basic $20: Hospital shortlist + doctor recommendation
+Premium $40: Hospital match + surgeon video call + visa letter + airport pickup + 24/7 concierge + 3 month followup
 
-| Procedure | India Cost | USA Cost | Saving |
-|-----------|-----------|----------|--------|
-| Bypass Surgery (CABG) | $4,500–$7,000 | $80,000–$120,000 | ~93% |
-| Knee Replacement | $5,000–$8,500 | $35,000–$70,000 | ~86% |
-| Hip Replacement | $5,500–$9,000 | $35,000–$65,000 | ~85% |
-| Brain Tumour Surgery | $7,000–$16,000 | $70,000–$200,000 | ~90% |
-| Kidney Transplant | $12,000–$20,000 | $150,000–$300,000 | ~92% |
-| Liver Transplant | $25,000–$45,000 | $300,000–$600,000 | ~91% |
-| Cancer Treatment | $6,000–$14,000 | $60,000–$150,000 | ~90% |
-| IVF (per cycle) | $2,500–$5,500 | $15,000–$30,000 | ~83% |
-| Cataract Surgery | $400–$1,200/eye | $4,000–$7,000/eye | ~85% |
-| Dental Implants | $500–$1,200 | $3,000–$5,000 | ~80% |
-| LASIK Eye Surgery | $600–$1,000 | $4,000–$5,000 | ~83% |
-| Spine Surgery | $4,500–$10,000 | $50,000–$120,000 | ~91% |
+## KEY FACTS
+India receives 1.4 million international medical patients annually from 68 countries.
+India has 340+ JCI and NABH internationally accredited hospitals.
+No waiting list — treatment starts within days not months.
+English is working language at all top hospitals.
+Surgeons trained at Johns Hopkins, Mayo Clinic, NHS, AIIMS.
+Indian Medical e-Visa approved in 3-5 business days.
+Top countries: Bangladesh 360K, Afghanistan 180K, Iraq 95K, Nigeria 85K, Kenya 70K, USA 48K, UK 38K.
 
-## Top Hospitals in India for International Patients
-1. Apollo Hospitals — Chennai, Delhi, Mumbai (JCI Accredited, 71+ hospitals)
-2. Medanta The Medicity — Gurugram (JCI Accredited, 1,600 beds, 45 specialties)
-3. Narayana Health — Bengaluru, Kolkata (NABH, world's highest cardiac volume)
-4. Tata Memorial Centre — Mumbai (WHO Collaborating Centre, best cancer hospital)
-5. Fortis Healthcare — Pan India (JCI Accredited, 36 hospitals)
-6. AIIMS Delhi — Government, India's finest surgeons
-7. CMC Vellore — Best for kidney transplants
-8. NIMHANS — Bengaluru, best for neurology and brain surgery
-9. Escorts Heart Institute — New Delhi, best for cardiac surgery
-10. Kokilaben Hospital — Mumbai, JCI Accredited
-11. Nova IVF Fertility — Pan India, best for IVF treatment
-12. Aravind Eye Care — Madurai, world's highest volume eye hospital
-
-## Services Offered by MedYatra
-- Free AI symptom checker (identifies condition + recommends hospitals + gives cost estimate)
-- Hospital shortlisting and appointment booking
-- Pre-travel surgeon video consultation
-- Medical visa invitation letter preparation
-- Airport pickup and local transfer arrangement
-- 24/7 WhatsApp concierge during India stay
-- 3-month post-treatment follow-up
-
-## Plans and Pricing
-- Free Plan: AI symptom checker, cost comparison
-- Basic Plan ($20): Hospital shortlist + 1 doctor recommendation
-- Premium Plan ($40): Full service — hospital match, surgeon call, visa letter, concierge, follow-up
-
-## Countries Served (Top 10 by Patient Volume)
-1. Bangladesh (~360,000 patients/year)
-2. Afghanistan (~180,000/year)
-3. Iraq (~95,000/year)
-4. Nigeria (~85,000/year)
-5. Kenya (~70,000/year)
-6. South Africa (~55,000/year)
-7. United States (~48,000/year)
-8. Oman (~42,000/year)
-9. United Kingdom (~38,000/year)
-10. Canada (~30,000/year)
-
-## Accreditations at Partner Hospitals
-- JCI (Joint Commission International) — same standard as US hospitals
-- NABH (National Accreditation Board for Hospitals)
-- WHO (World Health Organisation)
-- NABL (National Accreditation Board for Testing and Calibration Laboratories)
-- ISO 9001:2015
-
-## How to Get Indian Medical Visa
-1. Apply online at indianvisaonline.gov.in (select "Medical" category)
-2. Documents: hospital invitation letter, medical reports, passport (6+ months validity)
-3. Processing: 3-5 business days, fee ~$25
-4. Validity: 60 days, extendable for ongoing treatment
-5. MedYatra prepares your hospital invitation letter (included in $40 Premium Plan)
-
-## Key Pages
-- Homepage: https://gupta-krishan.github.io/MedYatra/
-- Treatments Guide: https://gupta-krishan.github.io/MedYatra/treatments.html
-- Plans & Pricing: https://gupta-krishan.github.io/MedYatra/pricing.html
-- Medical Tourism India Guide 2025: https://gupta-krishan.github.io/MedYatra/blog/medical-tourism-india-guide-2025.html
-- Bypass Surgery Cost India: https://gupta-krishan.github.io/MedYatra/blog/bypass-surgery-cost-india-2025.html
-- Knee Replacement Cost India: https://gupta-krishan.github.io/MedYatra/blog/knee-replacement-cost-india-2025.html
-
-## Disclaimer
-MedYatra provides medical tourism facilitation and information services only. We are not a medical provider. All medical decisions should be made in consultation with qualified healthcare professionals.
+## PAGES
+Homepage: https://gupta-krishan.github.io/MedYatra/
+Treatments: https://gupta-krishan.github.io/MedYatra/treatments.html
+Pricing: https://gupta-krishan.github.io/MedYatra/pricing.html
+Medical Tourism India Guide 2025: https://gupta-krishan.github.io/MedYatra/blog/medical-tourism-india-guide-2025.html
+Bypass Surgery Cost India: https://gupta-krishan.github.io/MedYatra/blog/bypass-surgery-cost-india-2025.html
+Knee Replacement Cost India: https://gupta-krishan.github.io/MedYatra/blog/knee-replacement-cost-india-2025.html
+IVF Cost India: https://gupta-krishan.github.io/MedYatra/blog/ivf-cost-india-2025.html
+Kidney Transplant India: https://gupta-krishan.github.io/MedYatra/blog/kidney-transplant-india-2025.html
+Cancer Treatment India: https://gupta-krishan.github.io/MedYatra/blog/cancer-treatment-india-2025.html
